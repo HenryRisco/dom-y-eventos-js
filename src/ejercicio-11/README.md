@@ -1,4 +1,4 @@
-## Ejercicio 11: Eliminar Elemento con `removeChild`
+1111111111111111111## Ejercicio 11: Eliminar Elemento con `removeChild`
 
 Utiliza `removeChild` para eliminar un elemento hijo de su elemento padre en el DOM. Aprenderás a quitar elementos del árbol DOM.
 
